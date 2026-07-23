@@ -1,0 +1,19 @@
+Job Title: Python Developer - Machine Learning
+
+We are looking for a Python developer with experience in machine learning 
+and data science. 
+
+Requirements:
+- Python programming (3+ years)
+- Machine learning with scikit-learn or TensorFlow
+- Data analysis with Pandas and NumPy
+- SQL databases
+- REST API development with FastAPI or Flask
+- Git and version control
+- Communication skills
+- Problem solving ability
+
+Nice to have:
+- NLP experience
+- Docker
+- Cloud platforms (AWS, GCP)
